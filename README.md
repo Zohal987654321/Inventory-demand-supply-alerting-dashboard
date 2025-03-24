@@ -1,10 +1,10 @@
 
-#Inventory Management & Demand-Supply Alerting Dashboard
+Inventory Management & Demand-Supply Alerting Dashboard
 This dashboard features a hidden slicer panel, accessible via the slicer icon on the left, reducing clutter and improving usability. An information button provides guidance on using the slicer panel efficiently.
 
 
 
-#KPIs Included:
+KPIs Included:
 Total Stock: The sum of all available stock across inventory.
 
 Total Stock

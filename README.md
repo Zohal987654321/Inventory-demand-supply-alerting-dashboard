@@ -4,7 +4,7 @@ This dashboard features a hidden slicer panel, accessible via the slicer icon on
 
 
 
-#KPIs Included:#
+# KPIs Included:#
 Total Stock: The sum of all available stock across inventory.
 
 Total Stock
